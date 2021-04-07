@@ -1,0 +1,11 @@
+A1
+->NX:Đại chỉ của phần tử đầu tiên là giống nhau nhưng địa chỉ biến mảng khác nhau
+
+A2.
+Hàm H chạy vô tận do không có điều kiện dừng
+
+A3.
+Không chạy được do sai công thức đệ quy
+
+A4.
+Chương trình không chạy được do tràn bộ nhớ
