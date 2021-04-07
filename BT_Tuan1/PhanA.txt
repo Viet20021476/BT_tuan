@@ -1,0 +1,38 @@
+1.
+Lỗi do grade chưa được khởi tạo
+
+2.
+In ra 0.6
+
+3.
+2 ^ 32 vượt ngoài khả năng lưu trữ của int 32 bit
+
+4.
+0
+
+5.
+Chương trình không chạy được
+
+6.
+Lỗi do x chưa được khởi tạo
+
+7.
+0
+0.75
+0.75
+0.75
+
+8.
+Lỗi do x được định nghĩa lại, khác kiểu dữ liệu
+
+9.
+Khi ở bên trong khối lệnh con, định danh arg1 chỉ tới biến arg1 kiểu char
+
+10.
+Khi ra khỏi khối lệnh con, định danh arg1 chỉ tới biến arg1 kiểu int
+
+11.
+C luôn bằng 0 do 5 / 9 = 0
+
+12.
+In ra "Here"
