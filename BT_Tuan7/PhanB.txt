@@ -1,0 +1,5 @@
+2.
+Lệnh * p = 5 sẽ gán cho i giá trị 5
+
+3.
+Lỗi do 1 con trỏ kểu double không thể trỏ đến 1 đối tượng kiểu char
